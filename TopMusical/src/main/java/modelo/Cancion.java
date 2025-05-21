@@ -80,6 +80,7 @@ public class Cancion implements Comparable<Cancion> {
                 Cancion c = new Cancion(datos[0], datos[1], datos[2], Integer.valueOf(datos[3]), Integer.valueOf(datos[4]), Integer.valueOf(datos[5]),  listaHistorial);
                 lista.add(c);
             }
+            
         } catch (FileNotFoundException ex) {
             ex.printStackTrace();
         } catch (IOException ex) {
