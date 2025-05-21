@@ -38,18 +38,10 @@
       </VBox>
    </right>
    <top>
-<<<<<<< Updated upstream
       <Label text="Top 10 de canciones" BorderPane.alignment="CENTER">
-=======
-      <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
->>>>>>> Stashed changes
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
       </Label>
    </top>
 </BorderPane>
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
